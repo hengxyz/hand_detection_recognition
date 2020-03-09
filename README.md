@@ -3,7 +3,7 @@ Detection and identify the hand by YOLO3 and Inception-ResNet in the video when 
 
 ## hand detection and recognition
 The bounding box used to locate the hand and the different color of bounding box used to identify the different hand.
-![fig1](./figs/)
+![fig1](./figs/video-detect-small.gif)
 
 ## License
 This code is distributed under MIT LICENSE
